@@ -1,0 +1,12 @@
+# Ignore secret key files
+Accesssecretkey.txt
+
+# Ignore Terraform variable files
+*.tfvars
+
+# Ignore environment variable files
+.env
+
+echo Access&secretkey.txt>> .gitignore
+echo *.tfvars>> .gitignore
+echo .env>> .gitignore
